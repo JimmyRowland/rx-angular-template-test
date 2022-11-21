@@ -1,0 +1,1 @@
+{"framework":"solid-v1.5.4-keyed","keyed":true,"benchmark":"06_remove-one-1k","type":"cpu","min":123.728,"max":144.04,"mean":132.5009,"median":131.67149999999998,"geometricMean":132.36596745157252,"standardDeviation":6.364257492695698,"values":[123.728,127.739,128.184,128.629,131.338,132.005,133.503,133.635,142.208,144.04]}

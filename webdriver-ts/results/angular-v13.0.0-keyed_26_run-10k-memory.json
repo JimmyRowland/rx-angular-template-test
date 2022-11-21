@@ -1,0 +1,1 @@
+{"framework":"angular-v13.0.0-keyed","keyed":true,"benchmark":"26_run-10k-memory","type":"memory","min":29.305222511291504,"max":29.305222511291504,"mean":29.305222511291504,"median":29.305222511291504,"geometricMean":29.305222511291504,"standardDeviation":null,"values":[29.305222511291504]}

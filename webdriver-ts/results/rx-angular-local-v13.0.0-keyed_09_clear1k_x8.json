@@ -1,0 +1,1 @@
+{"framework":"rx-angular-local-v13.0.0-keyed","keyed":true,"benchmark":"09_clear1k_x8","type":"cpu","min":266.696,"max":300.975,"mean":283.41790000000003,"median":282.08349999999996,"geometricMean":283.2356645499938,"standardDeviation":10.768837443186605,"values":[266.696,275.76,276.822,277.516,281.938,282.229,285.249,286.124,300.87,300.975]}

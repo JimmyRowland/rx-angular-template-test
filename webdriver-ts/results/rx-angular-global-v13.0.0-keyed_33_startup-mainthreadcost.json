@@ -1,0 +1,1 @@
+{"framework":"rx-angular-global-v13.0.0-keyed","keyed":true,"benchmark":"33_startup-mainthreadcost","type":"startup","min":24.628,"max":44.53199999999998,"mean":31.885333333333325,"median":26.495999999999995,"geometricMean":30.74401288512714,"standardDeviation":10.992087578496323,"values":[26.495999999999995,24.628,44.53199999999998]}

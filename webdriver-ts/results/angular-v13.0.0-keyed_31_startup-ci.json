@@ -1,0 +1,1 @@
+{"framework":"angular-v13.0.0-keyed","keyed":true,"benchmark":"31_startup-ci","type":"startup","min":2785.812,"max":2792.358,"mean":2788.726,"median":2788.0080000000003,"geometricMean":2788.724673653326,"standardDeviation":3.331541985327626,"values":[2788.0080000000003,2792.358,2785.812]}

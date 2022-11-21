@@ -1,0 +1,1 @@
+{"framework":"solid-v1.5.4-keyed","keyed":true,"benchmark":"33_startup-mainthreadcost","type":"startup","min":15.16,"max":49.608,"mean":31.83733333333333,"median":30.743999999999986,"geometricMean":28.48855558407133,"standardDeviation":17.25000606763178,"values":[30.743999999999986,49.608,15.16]}

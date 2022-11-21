@@ -1,0 +1,1 @@
+{"framework":"rx-angular-local-v13.0.0-keyed","keyed":true,"benchmark":"34_startup-totalbytes","type":"startup","min":316.33984375,"max":316.33984375,"mean":316.33984375,"median":316.33984375,"geometricMean":316.3398437499999,"standardDeviation":0,"values":[316.33984375,316.33984375,316.33984375]}

@@ -1,0 +1,1 @@
+{"framework":"angular-nozone-v13.0.0-keyed","keyed":true,"benchmark":"33_startup-mainthreadcost","type":"startup","min":15.007999999999997,"max":56.42400000000001,"mean":32.05466666666666,"median":24.731999999999992,"geometricMean":27.56440632742117,"standardDeviation":21.65727012652642,"values":[24.731999999999992,15.007999999999997,56.42400000000001]}

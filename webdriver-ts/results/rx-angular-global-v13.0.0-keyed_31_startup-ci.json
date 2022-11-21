@@ -1,0 +1,1 @@
+{"framework":"rx-angular-global-v13.0.0-keyed","keyed":true,"benchmark":"31_startup-ci","type":"startup","min":2931.5820000000003,"max":2937.2340000000004,"mean":2933.9420000000005,"median":2933.01,"geometricMean":2933.941018921875,"standardDeviation":2.939003912892981,"values":[2931.5820000000003,2937.2340000000004,2933.01]}

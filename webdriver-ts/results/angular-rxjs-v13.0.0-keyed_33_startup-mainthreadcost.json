@@ -1,0 +1,17 @@
+{
+  "framework": "angular-rxjs-v13.0.0-keyed",
+  "keyed": true,
+  "benchmark": "33_startup-mainthreadcost",
+  "type": "startup",
+  "min": 9.191999999999995,
+  "max": 36.29600000000001,
+  "mean": 20.852,
+  "median": 17.067999999999998,
+  "geometricMean": 17.857355260149557,
+  "standardDeviation": 13.94258569993386,
+  "values": [
+    9.191999999999995,
+    36.29600000000001,
+    17.067999999999998
+  ]
+}

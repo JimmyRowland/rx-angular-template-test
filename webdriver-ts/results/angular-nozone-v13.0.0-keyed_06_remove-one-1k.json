@@ -1,0 +1,1 @@
+{"framework":"angular-nozone-v13.0.0-keyed","keyed":true,"benchmark":"06_remove-one-1k","type":"cpu","min":145.322,"max":193.607,"mean":165.55420000000004,"median":158.66899999999998,"geometricMean":164.62918387037996,"standardDeviation":18.785352537430736,"values":[145.322,145.774,153.576,154.4,158.528,158.81,165.386,186.629,193.51,193.607]}

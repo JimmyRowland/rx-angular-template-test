@@ -1,0 +1,24 @@
+{
+  "framework": "angular-rxjs-v13.0.0-keyed",
+  "keyed": true,
+  "benchmark": "08_create1k-after1k_x2",
+  "type": "cpu",
+  "min": 304.19,
+  "max": 325.986,
+  "mean": 316.523,
+  "median": 317.7575,
+  "geometricMean": 316.45326162353905,
+  "standardDeviation": 6.979060777306162,
+  "values": [
+    304.19,
+    306.867,
+    312.812,
+    315.683,
+    317.756,
+    317.759,
+    319.415,
+    320.265,
+    324.497,
+    325.986
+  ]
+}

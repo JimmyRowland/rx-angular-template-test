@@ -1,0 +1,12 @@
+{
+  "framework": "rx-angular-v13.0.0-keyed",
+  "keyed": true,
+  "benchmark": "05_swap1k",
+  "type": "cpu",
+  "mean": null,
+  "geometricMean": null,
+  "standardDeviation": null,
+  "values": [
+    null
+  ]
+}

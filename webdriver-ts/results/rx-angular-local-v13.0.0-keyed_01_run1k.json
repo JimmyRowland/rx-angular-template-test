@@ -1,0 +1,24 @@
+{
+  "framework": "rx-angular-local-v13.0.0-keyed",
+  "keyed": true,
+  "benchmark": "01_run1k",
+  "type": "cpu",
+  "min": 274.685,
+  "max": 300.745,
+  "mean": 292.08880000000005,
+  "median": 291.367,
+  "geometricMean": 292.0077800230764,
+  "standardDeviation": 7.173621134251358,
+  "values": [
+    274.685,
+    289.905,
+    290.811,
+    291.052,
+    291.321,
+    291.413,
+    295.941,
+    296.235,
+    298.78,
+    300.745
+  ]
+}

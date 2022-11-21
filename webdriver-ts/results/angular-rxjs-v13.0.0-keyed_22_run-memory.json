@@ -1,0 +1,15 @@
+{
+  "framework": "angular-rxjs-v13.0.0-keyed",
+  "keyed": true,
+  "benchmark": "22_run-memory",
+  "type": "memory",
+  "min": 6.98161506652832,
+  "max": 6.98161506652832,
+  "mean": 6.98161506652832,
+  "median": 6.98161506652832,
+  "geometricMean": 6.98161506652832,
+  "standardDeviation": null,
+  "values": [
+    6.98161506652832
+  ]
+}

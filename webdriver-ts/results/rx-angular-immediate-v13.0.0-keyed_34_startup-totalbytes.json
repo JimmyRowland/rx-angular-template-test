@@ -1,0 +1,1 @@
+{"framework":"rx-angular-immediate-v13.0.0-keyed","keyed":true,"benchmark":"34_startup-totalbytes","type":"startup","min":316.3486328125,"max":316.3486328125,"mean":316.3486328125,"median":316.3486328125,"geometricMean":316.3486328124999,"standardDeviation":0,"values":[316.3486328125,316.3486328125,316.3486328125]}

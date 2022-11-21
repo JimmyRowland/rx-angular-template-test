@@ -1,0 +1,1 @@
+{"framework":"rx-angular-local-v13.0.0-keyed","keyed":true,"benchmark":"26_run-10k-memory","type":"memory","min":318.42155838012695,"max":318.42155838012695,"mean":318.42155838012695,"median":318.42155838012695,"geometricMean":318.42155838012695,"standardDeviation":null,"values":[318.42155838012695]}

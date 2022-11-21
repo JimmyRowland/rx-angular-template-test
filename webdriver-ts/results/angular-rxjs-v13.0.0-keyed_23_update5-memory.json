@@ -1,0 +1,15 @@
+{
+  "framework": "angular-rxjs-v13.0.0-keyed",
+  "keyed": true,
+  "benchmark": "23_update5-memory",
+  "type": "memory",
+  "min": 7.111691474914551,
+  "max": 7.111691474914551,
+  "mean": 7.111691474914551,
+  "median": 7.111691474914551,
+  "geometricMean": 7.111691474914551,
+  "standardDeviation": null,
+  "values": [
+    7.111691474914551
+  ]
+}

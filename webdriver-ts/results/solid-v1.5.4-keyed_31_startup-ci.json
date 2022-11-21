@@ -1,0 +1,1 @@
+{"framework":"solid-v1.5.4-keyed","keyed":true,"benchmark":"31_startup-ci","type":"startup","min":1880.1149999999998,"max":1881.5049999999999,"mean":1881.0033333333333,"median":1881.39,"geometricMean":1881.0032278488525,"standardDeviation":0.7714650564565492,"values":[1880.1149999999998,1881.5049999999999,1881.39]}

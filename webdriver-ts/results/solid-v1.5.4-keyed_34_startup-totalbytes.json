@@ -1,0 +1,1 @@
+{"framework":"solid-v1.5.4-keyed","keyed":true,"benchmark":"34_startup-totalbytes","type":"startup","min":149.8779296875,"max":149.8779296875,"mean":149.8779296875,"median":149.8779296875,"geometricMean":149.87792968749994,"standardDeviation":0,"values":[149.8779296875,149.8779296875,149.8779296875]}

@@ -1,0 +1,17 @@
+{
+  "framework": "angular-rxjs-v13.0.0-keyed",
+  "keyed": true,
+  "benchmark": "34_startup-totalbytes",
+  "type": "startup",
+  "min": 295.2783203125,
+  "max": 295.2783203125,
+  "mean": 295.2783203125,
+  "median": 295.2783203125,
+  "geometricMean": 295.2783203124999,
+  "standardDeviation": 0,
+  "values": [
+    295.2783203125,
+    295.2783203125,
+    295.2783203125
+  ]
+}

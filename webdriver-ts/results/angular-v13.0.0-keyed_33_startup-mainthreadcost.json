@@ -1,0 +1,1 @@
+{"framework":"angular-v13.0.0-keyed","keyed":true,"benchmark":"33_startup-mainthreadcost","type":"startup","min":10.067999999999996,"max":102.86800000000002,"mean":45.77466666666667,"median":24.387999999999995,"geometricMean":29.34043599675319,"standardDeviation":49.96000533760314,"values":[24.387999999999995,102.86800000000002,10.067999999999996]}

@@ -1,0 +1,1 @@
+{"framework":"rx-angular-immediate-v13.0.0-keyed","keyed":true,"benchmark":"26_run-10k-memory","type":"memory","min":317.16637420654297,"max":317.16637420654297,"mean":317.16637420654297,"median":317.16637420654297,"geometricMean":317.16637420654297,"standardDeviation":null,"values":[317.16637420654297]}
