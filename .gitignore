@@ -27,14 +27,12 @@ build/Release
 node_modules
 jspm_packages
 bower_components
-dist
 
 .idea
 .vscode
 .DS_Store
 *.iml
 TODO.txt
-*/dist/
 **/crui/.awcache
 **/angular*/.angular
 angular*/app/app.js
